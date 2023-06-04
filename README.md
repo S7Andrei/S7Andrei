@@ -20,4 +20,4 @@
 <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 </div> <br/> 
 
-<section> ...Codar é como escrever poesia. </section>
+
