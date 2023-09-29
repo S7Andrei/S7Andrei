@@ -20,7 +20,6 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<a href="https://imgur.com/HGsb5Bj"><img src="https://i.imgur.com/HGsb5Bj.gif" title="source: imgur.com" /></a>
 </div> <br/> 
 
 ##
@@ -28,3 +27,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
+
+<a href="https://imgur.com/HGsb5Bj"><img src="https://i.imgur.com/HGsb5Bj.gif" title="source: imgur.com" /></a>
