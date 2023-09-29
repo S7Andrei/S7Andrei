@@ -1,5 +1,5 @@
 ### 👋 Hello!! I'm Andrei Silva. (You can call me Drei).
- #• I am looking for new opportunities.
+### • I am looking for new opportunities.
 ### • I'm currently studying React.js and Node.js
 <div> <br>
 
