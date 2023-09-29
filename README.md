@@ -1,4 +1,4 @@
-### Olá!! sou Andrei Silva 👋  ///Drei...  
+### 👋 Hello!! I'm Andrei Silva. (You can call me Drei).
 
 <div> <br>
 
