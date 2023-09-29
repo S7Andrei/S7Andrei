@@ -28,6 +28,6 @@
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-<div>
+<div aling="right">
  <a href="https://imgur.com/HGsb5Bj" aling="right"><img src="https://i.imgur.com/HGsb5Bj.gif" title="source: imgur.com"></a>
 </div>
