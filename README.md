@@ -29,5 +29,5 @@
 </div> 
 
 <div>
- <a href="https://imgur.com/HGsb5Bj"><img src="https://i.imgur.com/HGsb5Bj.gif" aling="right" title="source: imgur.com"></a>
+ <a href="https://imgur.com/HGsb5Bj" aling="right"><img src="https://i.imgur.com/HGsb5Bj.gif" title="source: imgur.com"></a>
 </div>
