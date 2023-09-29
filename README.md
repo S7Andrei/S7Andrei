@@ -16,7 +16,7 @@
 <div> 
   <a href="https://github.com/LuigiCapoia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S7Andrei&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S7Andrei&layout=compact&langs_count=7&theme=radical""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S7Andrei&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
 <div style="display: inline_block"></br>
