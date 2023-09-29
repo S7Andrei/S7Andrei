@@ -5,13 +5,6 @@
 - ✅  I am looking for new opportunities.
 - ✍🏻 I'm currently studying React.js and Node.js.
 
-<div> <br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-silva-b71463211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
-(andreigit8@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)]() (Drei#8763) 
-</div>
 
 <div> 
   <a href="https://github.com/LuigiCapoia">
