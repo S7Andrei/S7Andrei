@@ -1,6 +1,7 @@
 ### 👋 Hello!! I'm Andrei Silva. (You can call me Drei).
-###  • I am looking for new opportunities.
-###  • I'm currently studying React.js and Node.js
+- 🔭 I am looking for new opportunities.
+- 🔭 I'm currently studying React.js and Node.js.
+
 <div> <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-silva-b71463211/)
