@@ -2,7 +2,6 @@
 
 
 
-- ✅  I am looking for new opportunities.
 - ✍🏻 I'm currently studying React.js and Node.js.
 
 
