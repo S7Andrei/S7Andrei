@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
- <a href="giphy.com"><img src="http://wolf7andrewsilvaps" align="right" height="150" style="border-radius:50px;"></a>
+ <a href="giphy.com"><img src="https://giphy.com/stickers/transparent-tDD5sO5Sa5AEhUwTju" align="right" height="150" style="border-radius:50px;"></a>
