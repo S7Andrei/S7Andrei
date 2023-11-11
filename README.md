@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S7Andrei&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-<a href="#"> <div style="display: inline_block"></br> </a>
+<div style="display: inline_block"></br> 
 <a href="#"> <img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a> 
 <a href="#"> <img align="center" alt="Andrei-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
