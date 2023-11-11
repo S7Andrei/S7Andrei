@@ -27,4 +27,6 @@
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
+<div align="center">
 ![d7vvhqh-4e2a1787-eccd-41a4-8901-74fed194c309](https://github.com/S7Andrei/S7Andrei/assets/91704521/562b4425-5de5-4b36-af7d-cc85b3cb6af8)
+</div>
