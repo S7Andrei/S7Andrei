@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
- <a href="#"><img src="https://imgs.search.brave.com/5M-ZVGC866sUoBuwQRVk1phenzLt3by06ZmOCSBtrRo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aHRtbGNzc2NvbG9y/LmNvbS9wcmV2aWV3/L2dhbGxlcnkvMEQx/MDE3LnBuZw" aling="left"></a>
+ <a href="#"><img src="https://imgs.search.brave.com/5M-ZVGC866sUoBuwQRVk1phenzLt3by06ZmOCSBtrRo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aHRtbGNzc2NvbG9y/LmNvbS9wcmV2aWV3/L2dhbGxlcnkvMEQx/MDE3LnBuZw" aling="left" width="50px"></a>
  <a href="giphy.com"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif" aling="center"></a>
