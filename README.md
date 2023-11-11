@@ -1,6 +1,4 @@
-<a href="#">
 ### 👋 Hello!! I'm Andrei Silva. (You can call me Drei).
-</a>
 
 
 - ✍🏻 I'm currently studying React.js and Node.js.
