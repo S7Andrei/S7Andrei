@@ -20,7 +20,7 @@
 <a href="#"> <img align="center" alt="Andrei-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-MondoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
-<a href="https://imgbox.com/nlDncSkK" target="_blank"><img src="https://postimg.cc/QKSrWYyw" alt="image host"/></a>
+<a href="https://imgbox.com/nlDncSkK" target="_blank"><img src="https://postimg.cc/HVyGQthr" alt="image host"/></a>
 </div> <br/> 
 
 ##
