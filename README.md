@@ -30,4 +30,4 @@
 </div> 
 
  <a href="#"><img visibility="hidden" src="https://imgs.search.brave.com/5M-ZVGC866sUoBuwQRVk1phenzLt3by06ZmOCSBtrRo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aHRtbGNzc2NvbG9y/LmNvbS9wcmV2aWV3/L2dhbGxlcnkvMEQx/MDE3LnBuZw" aling="left" width="500px"></a>
- <a href="#"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif" aling="center" display="flex"></a>
+ <a href="#"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif" aling-item="center" display="flex"></a>
