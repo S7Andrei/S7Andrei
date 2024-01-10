@@ -1,4 +1,4 @@
-### 👋 Hello!! I'm Andrei Silva. (You can call me Drei).
+### 👋 Hello!! I'm Andrei. (You can call me Drei).
 
 
 
