@@ -2,7 +2,7 @@
 
 
 
-- ✍🏻 I'm currently studying React.js, Node.js and AWS.
+- ✍🏻 I'm currently studying Node.js and AWS.
 
 
 
