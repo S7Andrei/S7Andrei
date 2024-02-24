@@ -17,8 +17,8 @@
 <a href="#"> <img align="center" alt="Andrei-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a> 
 <a href="#"> <img align="center" alt="Andrei-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
+<a href="#"> <img align="center" alt="Andrei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> </a>
-<a href="#"> <img align="center" alt="Andrei-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-MondoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
 <a href="#"><img align="center" alt="Andrei-AWS" height="32" width="50" src="https://i.postimg.cc/SNZybTLf/aws-C-removebg-preview.png" alt="image host"/></a>
 </div> <br/> 
