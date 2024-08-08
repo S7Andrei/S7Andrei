@@ -13,8 +13,6 @@
 </div>
  
 <div style="display: inline_block"></br> 
-<a href="#"> <img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
-<a href="#"> <img align="center" alt="Andrei-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a> 
 <a href="#"> <img align="center" alt="Andrei-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
 <a href="#"> <img align="center" alt="Andrei-React" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
 <a href="#"> <img align="center" alt="Andrei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
