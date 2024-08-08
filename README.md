@@ -24,7 +24,7 @@
 <a href="https://www.mongodb.com/"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
 <a href="https://aws.amazon.com/" target='_blank'><img align="center" height="25" width="40" src='https://i.postimg.cc/BvKJtjnn/png-transparent-amazon-aws-logo-removebg-preview.png' alt='png-transparent-amazon-aws-logo-removebg-preview'/></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="35" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </div> <br/> 
 
 ##
