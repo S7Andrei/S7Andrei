@@ -14,7 +14,7 @@
  
 <div style="display: inline_block"></br> 
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> </a>
