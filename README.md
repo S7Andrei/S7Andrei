@@ -23,7 +23,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
 <a href='https://postimages.org/' target='_blank'><img align="center" height="25" width="40" src='https://i.postimg.cc/BvKJtjnn/png-transparent-amazon-aws-logo-removebg-preview.png' alt='png-transparent-amazon-aws-logo-removebg-preview'/></a>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   
 </div> <br/> 
