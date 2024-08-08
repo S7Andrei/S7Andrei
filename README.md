@@ -13,19 +13,18 @@
 </div>
  
 <div style="display: inline_block"></br> 
-<a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+<a href="https://vitejs.dev/"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="28" height="28"/> </a>
-<a href="#"> <img align="center" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
-<a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
-<a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> </a>
+<a href="https://tailwindcss.com/"> <img align="center" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
+<a href="https://www.javascript.com/"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
+<a href="https://www.typescriptlang.org/"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img height="35" width="35" align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" /> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
-<a href='https://postimages.org/' target='_blank'><img align="center" height="25" width="40" src='https://i.postimg.cc/BvKJtjnn/png-transparent-amazon-aws-logo-removebg-preview.png' alt='png-transparent-amazon-aws-logo-removebg-preview'/></a>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/></a>
+<a href="https://www.mongodb.com/"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
+<a href="https://aws.amazon.com/" target='_blank'><img align="center" height="25" width="40" src='https://i.postimg.cc/BvKJtjnn/png-transparent-amazon-aws-logo-removebg-preview.png' alt='png-transparent-amazon-aws-logo-removebg-preview'/></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  
 </div> <br/> 
 
 ##
