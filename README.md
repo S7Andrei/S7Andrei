@@ -18,7 +18,7 @@
 <a href="#"> <img align="center" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img height="30" width="30" align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" /> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img height="30" width="35" align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" /> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 <a href="#"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">  </a>
