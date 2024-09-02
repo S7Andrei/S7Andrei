@@ -33,5 +33,11 @@
   <a href="https://www.linkedin.com/in/andrei-silva-b71463211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
+<table width="100%">
+  <tr>
+    <td align="right">
+      <a href="#"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif"></a>
+    </td>
+  </tr>
+</table>
 
- <a href="#"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif" display="flex" justify-content="end"></a>
