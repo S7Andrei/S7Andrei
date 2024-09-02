@@ -35,7 +35,7 @@
 
 <table width="100%">
   <tr>
-    <td align="right">
+    <td align="left">
       <a href="#"><img src="https://media.giphy.com/media/tDD5sO5Sa5AEhUwTju/giphy.gif"></a>
     </td>
   </tr>
