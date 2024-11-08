@@ -2,9 +2,9 @@
 
 
 
-- ✍🏻 I'm currently studying Node.js, AWS and Java + Spring-Boot.
+- ✍🏻 I'm currently studying AWS and Java + Spring-Boot.
 
-
+--- I really enjoy studying new technologies and constantly learning more. I'm willing to work with different languages in my personal projects and make progress in my professional journey.
 
 <div> 
   <a href="https://github.com/S7Andrei">
@@ -34,6 +34,11 @@
   <h3>IDEs</h3>
   <a href='https://postimages.org/'><img align="center" src='https://i.postimg.cc/mgykkfzT/intellijultimate1.png' align="center" border='0' alt='IntelliJ Ultimate IDE'/></a>
   <a href='https://postimages.org/'><img align="center" src='https://i.postimg.cc/mgDJz7hh/vscode-PNG.png' border='0' alt='Visual Studeo Code IDE'/></a>
+</div>
+
+<div>
+<h3>I intend to study in the future</h3>
+  <a href='https://postimages.org/' target='_blank'><img height="46" width="46" src='https://i.postimg.cc/SRp9zLr9/nestjs-256x255.png' border='0' alt='nestjs-256x255'/></a>
 </div>
 
 ##
