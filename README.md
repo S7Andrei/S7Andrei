@@ -32,13 +32,13 @@
 
 <div>
   <h3>IDEs</h3>
-  <a href='https://postimages.org/'><img align="center" src='https://i.postimg.cc/mgykkfzT/intellijultimate1.png' align="center" border='0' alt='IntelliJ Ultimate IDE'/></a>
-  <a href='https://postimages.org/'><img align="center" src='https://i.postimg.cc/mgDJz7hh/vscode-PNG.png' border='0' alt='Visual Studeo Code IDE'/></a>
+  <a href='https://www.jetbrains.com/pt-br/'><img align="center" src='https://i.postimg.cc/mgykkfzT/intellijultimate1.png' align="center" border='0' alt='IntelliJ Ultimate IDE'/></a>
+  <a href='https://code.visualstudio.com/'><img align="center" src='https://i.postimg.cc/mgDJz7hh/vscode-PNG.png' border='0' alt='Visual Studeo Code IDE'/></a>
 </div>
 
 <div>
 <h3>I intend to study in the future</h3>
-  <a href='https://postimages.org/' target='_blank'><img height="46" width="46" src='https://i.postimg.cc/SRp9zLr9/nestjs-256x255.png' border='0' alt='nestjs-256x255'/></a>
+  <a href='https://nestjs.com/' target='_blank'><img height="46" width="46" src='https://i.postimg.cc/SRp9zLr9/nestjs-256x255.png' border='0' alt='nestjs-256x255'/></a>
 </div>
 
 ##
