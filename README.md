@@ -14,7 +14,8 @@
  
 <div style="display: inline_block"></br>
   <h3>Technologies</h3>
-<a href="https://vitejs.dev/"> <img alt="React Vite" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+<a href="https://react.dev/"> <img alt="React Vite" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+<a href='https://postimages.org/'><img height="35" width="35" align="center" src='https://i.postimg.cc/Bnj4FjvZ/nextjs-logo.png' alt='nextjs-logo'/></a>
 <a href="https://redux.js.org" rel="noreferrer"> <img alt="Redux" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="28" height="28"/> </a>
 <a href="https://tailwindcss.com/"> <img alt="TailwindCSS" align="center" height="30" width="40" src="https://i.postimg.cc/Jn31692J/tailwind-css.png"> </a>
 <a href="https://www.javascript.com/"> <img alt="JavaScript" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
